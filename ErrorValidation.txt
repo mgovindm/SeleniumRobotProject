@@ -1,0 +1,24 @@
+*** Variables ***
+@{expectedTitleErrorMessage}    Please select a title
+@{expectedFirstNameErrorMessage}    Please enter a valid first name
+@{expectedLastNameErrorMessage}    Please enter a valid last name
+@{expectedDateOfBirthErrorMessage}    Please enter your date of birth    Please enter valid date of birth
+@{expectedMaritalStatusErrorMessage}    Please select your marital status
+@{expectedNumberOfDependencyErrorMessage}    Please select how many dependants you have
+@{expectedEmailErrorMessage}    Please enter your email    Please enter a valid email    Email and confirm email do not match
+@{expectedMobileNumberErrorMessage}    Please enter a mobile number    Please enter a valid mobile number
+@{expectedHomeNumberErrorMessage}    Please enter valid home phone number
+@{expectedPostCodeErrorMessage}    Please enter a post code    Please enter a valid post code
+@{expectedHouseNumberErrorMessage}    Please enter your house number    Please enter a valid house number
+@{expectedStreetErrorMessage}    Please enter a street    Please enter a valid street
+@{expectedTownCityErrorMessage}    Please enter a town/city    Please enter a valid town/city
+@{expectedTimeAtAddressErrorMessage}    Please select the time at this address
+@{expectedTypeOfOccupancyErrorMessage}    Please select your type of occupancy
+@{expectedEmployerErrorMessage}    Please enter your employer name    Please enter a valid employer name
+@{expectedPrimarySourceOfIncomeErrorMessage}    Please select your primary source of income    Please enter a valid income amount
+@{expectedLengthOfEmploymentErrorMessage}    Please select how long have you worked for your current employer
+@{expectedIncomeAmountErrorMessage}    Please enter your income amount    Please enter a valid income amount
+@{expectedPerErrorMessage}    Please select your income frequency
+@{expectedHowOftenDoYouGetPaidErrorMessage}    Please choose how often you get paid
+@{expectedDollorAmountErrorMessage}    Select your estimate in £s for this expense
+@{expectedConfirmCheckBoxErrorMessage}    Confirm all the information entered is correct
